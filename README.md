@@ -6,7 +6,7 @@
 
 2. Then, you need `OpenServer` (for `Windows` users) or `MAMP` (for `MACOS` users) application to run the server of `server.php`. 
 
-On OpenServer your should project file should be located in `domians` folder. 
+On OpenServer your project file should be located in `domians` folder. 
 On MAMP it is `htdocs` folder. 
 
 Open the OpenServer or MAMP and run the server. 
