@@ -15,7 +15,7 @@
 
 ### `npm i`
 
-2. Then, you need `OpenServer` (for `Windows` users) or `MAMP` (for `MACOS` users) application to run the server of `server.php`. 
+2. Then, you need to host the project `OR` you need `OpenServer` (for `Windows` users) or `MAMP` (for `MACOS` users) application to run the server of `server.php`.
 
 On OpenServer your project file should be located in `domians` folder. 
 On MAMP it is `htdocs` folder. 
