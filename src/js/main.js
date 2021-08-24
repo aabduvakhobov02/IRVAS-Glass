@@ -26,7 +26,7 @@ window.addEventListener("DOMContentLoaded", () => {
     "do_image_more",
     "inline-block"
   );
-  timer("#timer", "2021-8-5");
+  timer("#timer", "2022-8-5");
   forms(modalState);
   images();
 });
